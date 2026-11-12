@@ -1,10 +1,10 @@
-# Fashion Store Website
+# NOIR — Luxury Perfume Landing Page
 
 ## 📌 About The Project
 
-This project is a modern Fashion Store Website developed using **HTML5 and CSS3**.
+This project is a Perfume Store Website Website developed using **HTML5 and CSS3**.
 
-It provides a user-friendly interface for an online fashion store, allowing visitors to explore clothing collections, browse different categories, and discover the latest fashion trends.
+The website aims to provide an intuitive and modern user interface for an online perfume store, allowing visitors to explore fragrance collections, browse various categories, and discover the latest types of perfumes.
 
 ## 🛠️ Technologies Used
 
